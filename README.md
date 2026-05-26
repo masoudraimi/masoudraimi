@@ -21,24 +21,28 @@ Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Austral
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AURIN Research Impact Tracker](https://github.com/AURIN-OFFICE/aurin_impact_tracking_prototype) | Production analytics platform tracking 500+ publications, policy citations, grant trends, and media mentions with multi-provider LLM summarization | Python, Streamlit, Dimensions API, OpenRouter, Gemini, SQLite, Docker |
+| [Demographic Futures](https://github.com/masoudraimi/Demographic-Futures) | RAG-powered dashboard analysing demographic transformation across Australia and 19 OECD countries — population aging, fertility, migration, housing, and economic complexity — with a natural-language chat interface over 134 demographic publications | Python, LangChain, ChromaDB, BM25, OpenRouter, RAG |
+| [AURIN Research Impact Tracker](https://github.com/masoudraimi/aurin_impact_tracking_prototype) | Production analytics platform tracking 500+ publications, policy citations, grant trends, and media mentions with multi-provider LLM summarisation | Python, Streamlit, Dimensions API, OpenRouter, Gemini, SQLite, Docker |
 | [SQ Transit NLP](https://github.com/rahimimasoud/SQ_monitoring_AE) | BERT fine-tuned on 32M Australian transit tweets for multi-label service quality classification across 7 dimensions. published in Journal of Public Transport | Python, BERT, transformers, 32M tweets |
 | [SentiHawkes](https://github.com/rahimimasoud/SentiHawkes) | Sentiment-aware Hawkes point process model quantifying how service quality events propagate through public transit networks | MATLAB, Hawkes processes, NLP |
 | [GeoParquet Data Manager](https://github.com/rahimimasoud/geoparquet_data_manager) | Toolkit for chunking large geopackages into GeoParquet files for parallel geospatial processing | Python, GeoPandas, GeoParquet |
+
 
 ---
 
 ## Tech stack
 
-**Languages:** Python · SQL · R
+**Languages:** Python · R · SQL
 
-**AI / LLM:** OpenRouter · Google Gemini · Anthropic Claude · LlamaIndex · LangChain · BERT / HuggingFace transformers · Prompt engineering
+**AI / LLM:**  Torch · OpenRouter · LlamaIndex · LangChain · BERT / HuggingFace transformers · Prompt engineering
 
-**Data engineering:** Pandas · GeoPandas · SQLite · PostgreSQL · Dimensions API · REST APIs · ETL pipelines
+**Data engineering:** Pydantic · Great Expectations · SQLite · PostgreSQL · Apache Airflow · REST APIs · MongoDB
 
-**Infrastructure:** Docker · Azure · GCP · Streamlit · uv · Git
+**Infrastructure:** Docker · AWS · Azure · GCP · Streamlit · uv · Git
 
-**Geospatial:** ArcGIS · Kepler.gl · Folium · QGIS
+**Data Visualisation:** Streamlit · Quarto · Marimo
+
+**Geospatial:** ArcGIS · QGIS · Kepler.gl · Folium 
 
 ---
 
