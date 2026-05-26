@@ -1,4 +1,4 @@
-# Hi, I'm Masoud Rahimi
+# Hi, I'm Masoud.
 
 Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Australia's national urban research infrastructure network. I build production AI systems that turn messy, multi-source big data into actionable intelligence: from data curation, to impact dashboards to LLM evaluation pipelines to analytics at scale.
 
