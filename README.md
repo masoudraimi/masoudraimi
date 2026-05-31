@@ -34,18 +34,12 @@ Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Austral
 ## Tech stack
 
 - **Languages:** Python · R · SQL
-
-- **AI / LLM:**  Torch · OpenRouter · LlamaIndex · LangChain · BERT / HuggingFace transformers · Prompt engineering
-
-- **ML / Statistics:** scikit-learn · statsmodels · MLflow · SARIMA · LSTM
-
+- **AI / LLM:**  Torch · LlamaIndex · LangChain · BERT / HuggingFace transformers · Prompt engineering · OpenRouter
+- **ML / Statistics:** MLflow · scikit-learn · statsmodels
 - **Data engineering:** Pydantic · Great Expectations · SQLite · PostgreSQL · Apache Airflow · REST APIs · MongoDB
-
 - **Infrastructure:** Docker · FastAPI · AWS · Azure · GCP · Streamlit · uv · Git
-
 - **Data Visualisation:** Streamlit · Quarto · Marimo
-
-- **Geospatial:** ArcGIS · QGIS · Kepler.gl · Folium 
+- **Geospatial:** Geopandas · Folium · GDAL/ogr2ogr · Kepler.gl
 
 
 
