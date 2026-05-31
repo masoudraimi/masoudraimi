@@ -9,11 +9,11 @@ Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Austral
 
 ## What I work on
 
-- **Production AI infrastructure**: multi-provider LLM pipelines, RAG systems, agentic workflows
-- **Research data engineering**: multi-source ETL, SQLite/PostgreSQL caching strategies, API integrations
-- **Data science**: spatial statistics, urban analytics, ArcGIS, GeoPandas, Kepler.gl
-- **NLP at scale**: BERT fine-tuning on 32M+ tweets, aspect extraction, sentiment-aware point processes
-- **People leadership**: Data Science Chapter Lead, hiring, mentoring, growing technical teams
+- **Production data science systems**: end-to-end pipelines from feature engineering and model selection to drift monitoring, evaluation, and deployment
+- **AI engineering**: multi-provider LLM pipelines, RAG architectures, agentic workflows, LLM-as-judge evaluation
+- **Data engineering**: multi-source ETL, API integrations, SQLite/PostgreSQL caching, schema validation at scale
+- **NLP at scale**: BERT fine-tuning, aspect extraction, sentiment-aware temporal models
+- **People leadership**: Data Science Chapter Lead, growth mindset, mentoring, forming and navigating technical teams
 
 
 
