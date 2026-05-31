@@ -5,7 +5,7 @@ Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Austral
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahimimasoud-blue?logo=linkedin)](https://www.linkedin.com/in/rahimimasoud/)
 [![Email](https://img.shields.io/badge/Email-masoud.rahimi%40unimelb.edu.au-red?logo=gmail)](mailto:masoud.rahimi@unimelb.edu.au)
 
----
+
 
 ## What I work on
 
@@ -15,12 +15,13 @@ Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Austral
 - **NLP at scale**: BERT fine-tuning on 32M+ tweets, aspect extraction, sentiment-aware point processes
 - **People leadership**: Data Science Chapter Lead, hiring, mentoring, growing technical teams
 
----
+
 
 ## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Housing Approval Forecaster](https://github.com/masoudraimi/Housing-Approval-Forecaster) | Production-grade ML system forecasting quarterly dwelling approvals 4 quarters ahead across 528 Australian LGAs, with feature drift detection and residual monitoring, benchmarking seasonal, SARIMA, and LSTM models against National Housing Accord targets | Python, PyTorch, scikit-learn, statsmodels, MLflow, FastAPI, Docker |
 | [Demographic Futures](https://github.com/masoudraimi/Demographic-Futures) | RAG-powered dashboard analysing demographic transformation across Australia and 19 OECD countries — population aging, fertility, migration, housing, and economic complexity — with a natural-language chat interface over 134 demographic publications | Python, LangChain, ChromaDB, BM25, OpenRouter, RAG |
 | [AURIN Research Impact Tracker](https://github.com/masoudraimi/aurin_impact_tracking_prototype) | Production analytics platform tracking 500+ publications, policy citations, grant trends, and media mentions with multi-provider LLM summarisation | Python, Streamlit, Dimensions API, OpenRouter, Gemini, SQLite, Docker |
 | [SQ Transit NLP](https://github.com/rahimimasoud/SQ_monitoring_AE) | BERT fine-tuned on 32M Australian transit tweets for multi-label service quality classification across 7 dimensions. published in Journal of Public Transport | Python, BERT, transformers, 32M tweets |
@@ -28,30 +29,32 @@ Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Austral
 | [GeoParquet Data Manager](https://github.com/rahimimasoud/geoparquet_data_manager) | Toolkit for chunking large geopackages into GeoParquet files for parallel geospatial processing | Python, GeoPandas, GeoParquet |
 
 
----
+
 
 ## Tech stack
 
-**Languages:** Python · R · SQL
+- **Languages:** Python · R · SQL
 
-**AI / LLM:**  Torch · OpenRouter · LlamaIndex · LangChain · BERT / HuggingFace transformers · Prompt engineering
+- **AI / LLM:**  Torch · OpenRouter · LlamaIndex · LangChain · BERT / HuggingFace transformers · Prompt engineering
 
-**Data engineering:** Pydantic · Great Expectations · SQLite · PostgreSQL · Apache Airflow · REST APIs · MongoDB
+- **ML / Statistics:** scikit-learn · statsmodels · MLflow · SARIMA · LSTM
 
-**Infrastructure:** Docker · AWS · Azure · GCP · Streamlit · uv · Git
+- **Data engineering:** Pydantic · Great Expectations · SQLite · PostgreSQL · Apache Airflow · REST APIs · MongoDB
 
-**Data Visualisation:** Streamlit · Quarto · Marimo
+- **Infrastructure:** Docker · FastAPI · AWS · Azure · GCP · Streamlit · uv · Git
 
-**Geospatial:** ArcGIS · QGIS · Kepler.gl · Folium 
+- **Data Visualisation:** Streamlit · Quarto · Marimo
 
----
+- **Geospatial:** ArcGIS · QGIS · Kepler.gl · Folium 
+
+
 
 ## Selected publications
 
 - **Rahimi et al.**: *Sentiment-aware Hawkes processes for public transit service quality monitoring*: Journal of Public Transport
 - **Rahimi et al.**: *Aspect-based service quality monitoring from social media* (link)
 
----
+
 
 ## Currently building
 
@@ -59,7 +62,7 @@ Lead Data Scientist and Technical Lead at [AURIN](https://aurin.org.au), Austral
 - An LLM evaluation pipeline with LLM-as-judge methodology
 - A multi-step research discovery agent extending production policy classification work
 
----
+
 
 > "I think about AI systems from design through deployment through the people who maintain them."
 
